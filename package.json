@@ -1,0 +1,31 @@
+{
+  "name": "myxl",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsimD/myXl.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Tsimintia D <tsimintiad@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsimD/myXl/issues"
+  },
+  "homepage": "https://github.com/TsimD/myXl#readme",
+  "privet": true,
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
